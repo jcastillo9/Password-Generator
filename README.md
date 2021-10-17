@@ -4,7 +4,7 @@ This password generator is for employees who need a password that meets certain 
 
 # Installation
 
-Run using the github URL: https://jcastillo9.github.io/Password-s
+Run using the github URL: https://jcastillo9.github.io/Password-Generator/
 
 # Screenshot
 <img src="./Assets/Images/screenshot.png" alt="website home page" class="screenshot"/>
