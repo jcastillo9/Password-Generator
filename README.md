@@ -4,7 +4,7 @@ This password generator is for employees who need a random password that meet ce
 
 # Installation
 
-Run using the github URL: hjcastillo9.github.io/Password-Generator
+Run using the github URL: https://jcastillo9.github.io/Password-Generator
 
 # Screenshot
 <img src="./Assets/Images/screenshot.png" alt="website home page" class="screenshot"/>
