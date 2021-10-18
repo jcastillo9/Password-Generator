@@ -19,9 +19,6 @@ function generatePassword() {
   var lowerCaseLet = "abcdefghijklmnopqrstuvwxyz";
   var numberList = "1234567890";
   var specialList = "`~!@#$%^&*()_-=+[]{}|;':\",.<>?";
-
-
-  // Characters Types
   var characters = "";
   var upperCaseChosen = "";
   var lowerCaseChosen = "";
